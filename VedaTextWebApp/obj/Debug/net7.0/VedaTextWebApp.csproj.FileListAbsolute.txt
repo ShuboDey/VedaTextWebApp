@@ -1,0 +1,8 @@
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.csproj.AssemblyReference.cache
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.AssemblyInfoInputs.cache
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.AssemblyInfo.cs
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.RazorAssemblyInfo.cache
+C:\Users\NEYMAR JOY\Documents\C++ How to program\VedaTextWebApp\VedaTextWebApp\obj\Debug\net7.0\VedaTextWebApp.RazorAssemblyInfo.cs

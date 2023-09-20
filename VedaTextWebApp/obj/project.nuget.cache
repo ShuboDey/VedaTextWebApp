@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfe8XfMBdargbXhRRhaAntOeerXXGe44d95AFkhZHuGeiW+7cpBqmUNGuC5+oh5G85XyaF/HxlNcSJARDSQGCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NEYMAR JOY\\Documents\\C++ How to program\\VedaTextWebApp\\VedaTextWebApp\\VedaTextWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEYMAR JOY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
